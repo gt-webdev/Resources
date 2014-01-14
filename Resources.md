@@ -23,6 +23,13 @@ Chrome DevTools is built into Chrome. Some of its basic functions allow you to i
 	
 	Interactive tutorial that is fairly comprehensive. Starts from basics, but also goes into how to improve the performance of your site.
 
+### [Vim] (http://www.vim.org/)
+A power text editor good for developing. High learning curve but very rewarding.
+
+* [Vimcasts.com] (http://vimcasts.org/)
+
+	This is a good place to learn how to make the most of vim and learn how to operate it in general.
+
 ## JavaScript
 ### Books
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1389631402&sr=8-1&keywords=javascript+the+good+parts/ "JavaScript: The Good Parts")
@@ -33,3 +40,8 @@ Chrome DevTools is built into Chrome. Some of its basic functions allow you to i
 	
 	Free online book that goes from basics to through common programming paradigms used in JavaScript (Object-Oriented, Functional, etc.). Also covers recursion.
 
+
+## Design Resources
+* [Adobe Kuler] (https://kuler.adobe.com/create/color-wheel/) 
+
+	Lets you easily create colors/swatches to use on your website! You can also browse other people's swatch creations.

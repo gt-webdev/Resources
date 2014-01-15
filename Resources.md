@@ -4,7 +4,7 @@
 * [GT WebDev Site] (http://www.ccorgs.com/orgs/webdev/ "GT WebDev Site")
 * [GT WebDev github] (http://www.ccorgs.com/orgs/webdev/ "GT WebDev github")
 
-## Tools
+## Development Tools
 ### Git
 Git is a popular distributed version control system. It integrates nicely with [Github] (www.github.com "Github") which is often used to facilitate collaboration on open source projects.
 
@@ -41,7 +41,13 @@ A power text editor good for developing. High learning curve but very rewarding.
 	Free online book that goes from basics to through common programming paradigms used in JavaScript (Object-Oriented, Functional, etc.). Also covers recursion.
 
 
-## Design Resources
+## Design
 * [Adobe Kuler] (https://kuler.adobe.com/create/color-wheel/) 
 
 	Lets you easily create colors/swatches to use on your website! You can also browse other people's swatch creations.
+
+## Other
+### Browser Compatibility 
+This is a good way to check what html, css, etc. is usable by a browser.
+* [caniuse.com] (http://caniuse.com/)
+* [html5please.com] (http://html5please.com/)

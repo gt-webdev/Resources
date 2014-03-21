@@ -97,6 +97,9 @@ A power text editor good for developing. High learning curve but very rewarding.
   * [Advanced JavaScript](http://www.youtube.com/watch?v=DwYPG6vreJg)
   * [vaguely related - Crockford explains what monads are (recommended for haskell fanboys)](http://www.youtube.com/watch?v=dkZFtimgAcM)
 
+### [Node.js] (http://nodejs.org/)
+
+Node is platform best-used for creating scalable, networking applications. It comes with a JavaScript runtime environment, several useful built-in modules, and a handy package manager ([npm](https://www.npmjs.org/)). One of the best explanations of how it works, and why you should use it can be found [here](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js).
 
 ## Design
 * [Adobe Kuler] (https://kuler.adobe.com/create/color-wheel/) 

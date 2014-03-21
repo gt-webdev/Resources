@@ -12,10 +12,6 @@ Git is a popular distributed version control system. It integrates nicely with [
 	
 	Interactive tutorial that goes through the basics of git.
 
-* [Pro Git](http://git-scm.com/book/ "Pro Git")
-	
-	Free online book that goes into probably everything you need to know about Git.
-
 * [The Official Git Book](http://git-scm.com/book)
 
 	Free online book. Contains the official discussion and explanation on how to use git as well as how it works (to some extent). Usually not needed since it's not quite a tutorial, but it's a fairly good read if you're interested in learning how git works and have a couple of hours to spare.

@@ -39,6 +39,12 @@ A power text editor good for developing. High learning curve but very rewarding.
 
 	This is a good place to learn how to make the most of vim and learn how to operate it in general.
 
+## HTML5/CSS3
+
+* [Dive Into HTML5](http://diveintohtml5.info/index.html)
+
+	Free book that goes into what's new with HTML5. You should probably already know some HTML. The book is really well done. It's beautiful, and it discusses browser compatibility, which is a big issue with web development.
+
 ## JavaScript
 ### Books
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1389631402&sr=8-1&keywords=javascript+the+good+parts/ "JavaScript: The Good Parts")

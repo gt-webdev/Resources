@@ -107,6 +107,26 @@ A power text editor good for developing. High learning curve but very rewarding.
 
 Node is platform best-used for creating scalable, networking applications. It comes with a JavaScript runtime environment, several useful built-in modules, and a handy package manager ([npm](https://www.npmjs.org/)). One of the best explanations of how it works, and why you should use it can be found [here](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js).
 
+### [d3.js] (http://d3js.org/)
+
+d3, which stands for data-driven documents, is a JavaScript framework for creating information visualizations. It allows you to bind elements on a web page (such as circles, rectangles, lines, and other shapes) to data elements. d3 allows you to define the chracteristics of the elements on the web page like color, x-y coordinates, and thickness based on the values of your data. It can take a decent amount of tweaking to create something at first, but it's definitely worth learning.
+
+* [d3 Official Gallery] (https://github.com/mbostock/d3/wiki/Gallery)
+
+	Whether you have a visualization in mind for your data, or you're still at a loss on how to visualize it, this is a great place to start. There's a "visual index" of all kinds of visualizations made using d3, and most of the examples have the code and the data included.
+	
+* [Interactive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345)
+
+	This free book (the link to read online is on the page) is great for beginners. Explains a lot of things that might be confusing at first, such as scales, axes, and transitions. 
+	
+* [Thinking with Joins] (http://bost.ocks.org/mike/join/)
+
+	This article on how d3 adds, updates, and removes elements on a web page based on the data is written by Mike Bostock, one of the creators of d3, is a must-read. It's concise and incredibly clear.
+
+* [d3's Wiki] (https://github.com/mbostock/d3/wiki)
+
+	d3's official wiki. Under the Resources heading, it contains links to the introduction (scroll down the main page of d3js.org), the example gallery, tutorials and talks, and the API reference.
+
 ## Design
 * [Adobe Kuler] (https://kuler.adobe.com/create/color-wheel/) 
 

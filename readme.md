@@ -117,7 +117,7 @@ d3, which stands for data-driven documents, is a JavaScript framework for creati
 	
 * [Interactive Data Visualization for the Web] (http://chimera.labs.oreilly.com/books/1230000000345)
 
-	This free book (the link to read online is on the page) is great for beginners. Explains a lot of things that might be confusing at first, such as scales, axes, and transitions. 
+	This free book (the link to read online is on the page) is great for beginners. Explains a lot of things that might be confusing at first such as scales, axes, and transitions. 
 	
 * [Thinking with Joins] (http://bost.ocks.org/mike/join/)
 

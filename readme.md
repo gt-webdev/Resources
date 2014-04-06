@@ -121,7 +121,7 @@ d3, which stands for data-driven documents, is a JavaScript framework for creati
 	
 * [Thinking with Joins] (http://bost.ocks.org/mike/join/)
 
-	This article on how d3 adds, updates, and removes elements on a web page based on the data is written by Mike Bostock, one of the creators of d3, is a must-read. It's concise and incredibly clear.
+	This article on how d3 adds, updates, and removes elements on a web page based on your data is a must-read. It's written by Mike Bostock, one of the creators of d3. It's concise and incredibly clear.
 
 * [d3's Wiki] (https://github.com/mbostock/d3/wiki)
 

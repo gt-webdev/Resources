@@ -119,6 +119,10 @@ d3, which stands for data-driven documents, is a JavaScript framework for creati
 
 	This free book (the link to read online is on the page) is great for beginners. Explains a lot of things that might be confusing at first such as scales, axes, and transitions. 
 	
+* [Dashing D3.js] (https://www.dashingd3js.com/table-of-contents)
+
+	Great tutorial to start with. Clear and shorter than the Interactive Data Visualization book, but doesn't go into as much detail and doesn't cover creating map-based visualizations like the book does.
+	
 * [Thinking with Joins] (http://bost.ocks.org/mike/join/)
 
 	This article on how d3 adds, updates, and removes elements on a web page based on your data is a must-read. It's written by Mike Bostock, one of the creators of d3. It's concise and incredibly clear.

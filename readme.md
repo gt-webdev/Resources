@@ -46,6 +46,11 @@ A power text editor good for developing. High learning curve but very rewarding.
 	Free book that goes into what's new with HTML5. You should probably already know some HTML. The book is really well done. It's beautiful, and it discusses browser compatibility, which is a big issue with web development.
 
 ## JavaScript
+
+### Libraries, frameworks, and plugins
+* [JSDB.io](jsdb.io)
+	Collection of js toys
+
 ### Books
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1389631402&sr=8-1&keywords=javascript+the+good+parts/ "JavaScript: The Good Parts")
 	
